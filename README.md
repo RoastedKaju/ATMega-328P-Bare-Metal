@@ -11,7 +11,7 @@ Used as a reference for future and personal learning.
 
 ## Board
 <p align="center">
-<img src="docs/Board.jpg" alt="Board"/>
+<img src="Docs/Board.jpg" alt="Board"/>
 </p>
 
 ## Blinky
